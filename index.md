@@ -12,5 +12,3 @@ I am a senior scientist at Colossal Biosciences!
 - **xxx:** xxx
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

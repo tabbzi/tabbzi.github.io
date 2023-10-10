@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior scientist at Colossal Biosciences!
+Page under construction!
 
 ## Research Interests
 

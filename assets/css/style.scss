@@ -19,26 +19,23 @@
 }
 
 @media (max-width: 800px) {
+    .mobile-stack {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 0 !important;
+    }
+
     .about-illustration {
-        position: absolute;
         opacity: 0.25;
-        z-index: -1;
+        width: 80% !important;
+        height: auto;
+        margin: 0 auto -150px auto !important;
+        z-index: 0;
         pointer-events: none;
-        margin: 0 !important;
-        width: 300px;
     }
 
-    .upper-right {
-        top: 10%;
-        right: 0;
-    }
-
-    .lower-left {
-        bottom: 10%;
-        left: 0;
-    }
-
-    .wrapper section {
-        overflow-x: hidden;
+    .mobile-stack div {
+        z-index: 2;
+        background: transparent;
     }
 }

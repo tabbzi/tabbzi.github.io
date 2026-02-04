@@ -9,7 +9,7 @@ layout: homepage
     <div style="display: flex; align-items: flex-start; gap: 20px;">
         <div style="flex: 1;">
             <p>
-                Computational biologist and principal scientist focused on evolution and development, genotype-to-phenotype relationships, and functional consequences of DNA sequence variation across animal species.
+                Computational biologist and principal scientist focused on <strong>evolution and development</strong>, <strong>genotype-to-phenotype relationships</strong>, and <strong>functional consequences of DNA sequence variation</strong> across animal species.
             </p>
 
             <p>

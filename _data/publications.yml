@@ -1,12 +1,12 @@
 main:
 
   - title: "Colonial-driven extinction of the blue antelope despite genomic adaptation to low population size"
-    authors: "Hempel E, Faith JT, Preick M, de Jager D, Barish S, Hartmann S, Grau JH, Moodley Y, Gedman G, <span style="color: #00b18b;">Pirovich KM</span>, Bibi F, Kalthoff DC, Bocklandt S, Lamm B, Dalén L, Westbury MV, Hofreiter M"
+    authors: "Hempel E, Faith JT, Preick M, de Jager D, Barish S, Hartmann S, Grau JH, Moodley Y, Gedman G, Pirovich KM, Bibi F, Kalthoff DC, Bocklandt S, Lamm B, Dalén L, Westbury MV, Hofreiter M"
     pdf: https://doi.org/10.1016/j.cub.2024.03.051
     image: ./assets/img/bbadna.png
 
   - title: "Evolutionary constraint and innovation across hundreds of placental mammals (2023)"
-    authors: "Christmas MJ, et al; <span style="color: #00b18b;">Zoonomia Consortium</span>"
+    authors: "Christmas MJ, et al; Zoonomia Consortium"
     pdf: https://doi.org/10.1126/science.abn3943
     image: ./assets/img/zoonomia.jpg
 

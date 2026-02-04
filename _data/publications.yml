@@ -1,5 +1,11 @@
 main:
 
+  - title: ​Comparative genomics of Balto, a famous historic dog, captures lost diversity of 1920s sled dogs
+    authors: Moon KL, Huson HJ, <strong>Morrill K</strong>, Wang MS, Li X, Srikanth K; Zoonomia Consortium; Lindblad-Toh K, Svenson GJ, Karlsson EK, Shapiro B
+    code: https://doi.org/10.1126/science.abn5887
+    notes: 2023
+    image: ./assets/img/balto.png
+
   - title: Ancestry-inclusive dog genomics challenges popular breed stereotypes
     authors: <strong>Morrill K</strong>, Hekman J, Li X, McClure J, Logan B, Goodman L, Gao M, Dong Y, Alonso M, Carmichael E, Snyder-Mackler N, Alonso J, Noh HJ, Johnson J, Koltookian M, Lieu C, Megquier K, Swofford R, Turner-Maier J, White ME, Weng Z, Colubri A, Genereux DP, Lord KA, Karlsson EK
     code: https://www.science.org/doi/10.1126/science.abk0639

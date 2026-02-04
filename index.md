@@ -45,11 +45,4 @@ layout: homepage
     </div>
 </div>
 
-
-
-## Research Interests
-
-- **xxx:** xxx
-- **xxx:** xxx
-
 {% include_relative _includes/publications.md %}

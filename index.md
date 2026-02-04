@@ -6,7 +6,7 @@ layout: homepage
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-    <div style="display: flex; align-items: flex-start; gap: 20px; position: relative;">
+    <div class="mobile-stack" style="display: flex; align-items: flex-start; gap: 20px;">
         <div style="flex: 1;">
             <p>
                 Computational biologist and principal investigator focused on <span style="color: #00b18b;">genotype-to-phenotype relationships</span>, evolution and development, and functional consequences of DNA sequence variation across animal species.
@@ -27,7 +27,7 @@ layout: homepage
         <img src="./assets/img/graphic_ColossalBiosciences.gif" class="about-illustration upper-right" />
     </div>
 
-    <div style="display: flex; align-items: flex-end; gap: 20px; position: relative;">
+    <div class="mobile-stack" style="display: flex; align-items: flex-end; gap: 20px;">
         <img src="./assets/img/graphic_UMassMedical.gif" class="about-illustration lower-left" />
         <div style="flex: 1;">
             <p>

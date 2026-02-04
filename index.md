@@ -9,7 +9,7 @@ layout: homepage
     <div style="display: flex; align-items: flex-start; gap: 20px;">
         <div style="flex: 1;">
             <p>
-                Computational biologist and principal scientist focused on <span style="color: #00b18b;">genotype-to-phenotype relationships</span>, evolution and development, and functional consequences of DNA sequence variation across animal species.
+                Computational biologist and principal investigator focused on <span style="color: #00b18b;">genotype-to-phenotype relationships</span>, evolution and development, and functional consequences of DNA sequence variation across animal species.
             </p>
 
             <p>
@@ -24,11 +24,11 @@ layout: homepage
             My past research spanned diverse topics, from <span style="color: #00b18b;">resilience and genetic diversity</span> in marine sea grasses to effects of <span style="color: #00b18b;">retrotransposon activation</span> on neurodegeneration to <span style="color: #00b18b;">genetic switches</span> encoded for defending bacteria against DNA damage hijacked by bacteriophage viruses.
             </p>
         </div>
-        <img src="./assets/img/graphic_ColossalBiosciences.gif" style="max-width: none !important; flex-shrink: 0; margin-right: -250px; z-index: 1;" />
+        <img src="./assets/img/graphic_ColossalBiosciences.gif" class="about-illustration upper-right" />
     </div>
 
     <div style="display: flex; align-items: flex-end; gap: 20px;">
-        <img src="./assets/img/graphic_UMassMedical.gif" style="max-width: none !important; flex-shrink: 0; margin-right: 25x; z-index: 1;" />
+        <img src="./assets/img/graphic_UMassMedical.gif" class="about-illustration lower-left" />
         <div style="flex: 1;">
             <p>
                 I have cultivated a <span style="color: #00b18b;">diverse skillset spanning many functional domains and datasets</span>, including gene regulation (bulk and single-cell RNA-seq); chromatin contacts (HiC, LinkPrep), states (histone ChIP-seq), and accessibility (ATAC-seq); germline and somatic genome variant calling from short‑ and long‑read whole‑genome sequencing. I approach leadership with the same thoroughness, attentiveness, and commitment that defines my research.

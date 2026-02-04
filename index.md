@@ -35,7 +35,7 @@ layout: homepage
             </p>
 
             <p>
-                Beyond scientific research, I am also an illustrator exploring the intersection of art and science, and independent developer in my free time building fun games and interactive tools with a special interest in virtual life simulation.
+                Beyond scientific research, I am also an illustrator exploring the intersection of art and science, and novice game developer in my free time building fun and interactive tools with a special interest in virtual and artificial life simulations.
             </p>
 
             <p>Thank you for checking out my profile, and feel free to reach out via email or on any platform linked!</p>

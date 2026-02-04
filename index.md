@@ -27,20 +27,25 @@ layout: homepage
         <img src="./assets/img/graphic_ColossalBiosciences.gif" style="max-width: none !important; flex-shrink: 0; margin-right: -250px; z-index: 1;" />
     </div>
 
-    <p>
-        I have cultivated a diverse skillset spanning many functional domains and datasets, including gene regulation (bulk and single-cell RNA-seq); chromatin contacts (HiC, LinkPrep), states (histone ChIP-seq), and accessibility (ATAC-seq); germline and somatic genome variant calling from short‑ and long‑read whole‑genome sequencing. I approach project leadership with the same thoroughness, attentiveness, and commitment that defines my research.
-    </p>
-
     <div style="display: flex; align-items: flex-end; gap: 20px;">
         <img src="./assets/img/graphic_UMassMedical.gif" style="max-width: none !important; flex-shrink: 0; margin-right: 25x; z-index: 1;" />
         <div style="flex: 1;">
-            Beyond scientific research, I am also an illustrator eager for ways to combine my passions for science and art, and a novice developer for virtual life games and interactive tool development in my free time.
+            <p>
+                I have cultivated a diverse skillset spanning many functional domains and datasets, including gene regulation (bulk and single-cell RNA-seq); chromatin contacts (HiC, LinkPrep), states (histone ChIP-seq), and accessibility (ATAC-seq); germline and somatic genome variant calling from short‑ and long‑read whole‑genome sequencing. I approach project leadership with the same thoroughness, attentiveness, and commitment that defines my research.
+            </p>
+
+            <p>
+                Beyond scientific research, I am also an illustrator eager for ways to combine my passions for science and art, and a novice developer for virtual life games and interactive tool development in my free time.
+            </p>
+
+            <p>Thank you for checking out my profile, and feel free to reach out via email or on any platform linked!</p>
+
+            <p>Kathleen Morrill Pirovich</p>
         </div>
     </div>
 </div>
 
-Thank you for checking out my profile, and feel free to reach out via email or LinkedIn messenger!
-Kathleen Morrill Pirovich
+
 
 ## Research Interests
 

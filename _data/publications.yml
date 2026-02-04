@@ -1,12 +1,12 @@
 main:
 
   - title: "Colonial-driven extinction of the blue antelope despite genomic adaptation to low population size"
-    authors: Hempel E, Faith JT, Preick M, de Jager D, Barish S, Hartmann S, Grau JH, Moodley Y, Gedman G, Pirovich KM, Bibi F, Kalthoff DC, Bocklandt S, Lamm B, Dalén L, Westbury MV, Hofreiter M
+    authors: "Hempel E, Faith JT, Preick M, de Jager D, Barish S, Hartmann S, Grau JH, Moodley Y, Gedman G, <span style="color: #00b18b;">Pirovich KM</span>, Bibi F, Kalthoff DC, Bocklandt S, Lamm B, Dalén L, Westbury MV, Hofreiter M"
     pdf: https://doi.org/10.1016/j.cub.2024.03.051
     image: ./assets/img/bbadna.png
 
   - title: "Evolutionary constraint and innovation across hundreds of placental mammals (2023)"
-    authors: Christmas MJ, Kaplow IM, Genereux DP, Dong MX, Hughes GM, Li X, Sullivan PF, Hindle AG, Andrews G, Armstrong JC, Bianchi M, Breit AM, Diekhans M, Fanter C, Foley NM, Goodman DB, Goodman L, Keough KC, Kirilenko B, Kowalczyk A, Lawless C, Lind AL, Meadows JRS, Moreira LR, Redlich RW, Ryan L, Swofford R, Valenzuela A, Wagner F, Wallerman O, Brown AR, Damas J, Fan K, Gatesy J, Grimshaw J, Johnson J, Kozyrev SV, Lawler AJ, Marinescu VD, Morrill KM, Osmanski A, Paulat NS, Phan BN, Reilly SK, Schäffer DE, Steiner C, Supple MA, Wilder AP, Wirthlin ME, Xue JR; Zoonomia Consortium§; Birren BW, Gazal S, Hubley RM, Koepfli KP, Marques-Bonet T, Meyer WK, Nweeia M, Sabeti PC, Shapiro B, Smit AFA, Springer MS, Teeling EC, Weng Z, Hiller M, Levesque DL, Lewin HA, Murphy WJ, Navarro A, Paten B, Pollard KS, Ray DA, Ruf I, Ryder OA, Pfenning AR, Lindblad-Toh K, Karlsson EK
+    authors: "Christmas MJ, et al; <span style="color: #00b18b;">Zoonomia Consortium</span>"
     pdf: https://doi.org/10.1126/science.abn3943
     image: ./assets/img/zoonomia.jpg
 

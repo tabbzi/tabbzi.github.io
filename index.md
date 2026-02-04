@@ -35,7 +35,7 @@ layout: homepage
             </p>
 
             <p>
-                I approach research and leadership with matched eagerness, thoroughness, attentiveness, and commitment!
+                I approach research and leadership with eagerness, thoroughness, attentiveness, and commitment!
             </p>
 
             <p>

@@ -2,3 +2,43 @@
 ---
 
 @import "minimal-light";
+
+.about-illustration {
+    max-width: none !important;
+    flex-shrink: 0;
+    z-index: 1;
+    transition: opacity 0.3s ease;
+}
+
+.upper-right {
+    margin-right: -250px;
+}
+
+.lower-left {
+    margin-left: -250px;
+}
+
+@media (max-width: 800px) {
+    .about-illustration {
+        position: absolute;
+        opacity: 0.25;
+        z-index: -1;
+        pointer-events: none;
+        margin: 0 !important;
+        width: 300px;
+    }
+
+    .upper-right {
+        top: 10%;
+        right: 0;
+    }
+
+    .lower-left {
+        bottom: 10%;
+        left: 0;
+    }
+
+    .wrapper section {
+        overflow-x: hidden;
+    }
+}

@@ -1,7 +1,4 @@
----
----
-
-@import "minimal-light";
+--- --- @import "minimal-light";
 
 .about-illustration {
     max-width: none !important;
@@ -23,19 +20,22 @@
         flex-direction: column !important;
         align-items: center !important;
         gap: 0 !important;
+        position: relative;
+        z-index: 1;
     }
 
     .about-illustration {
         opacity: 0.25;
         width: 80% !important;
         height: auto;
-        margin: 0 auto -150px auto !important;
+        margin: 0 auto -100px auto !important;
         z-index: 0;
         pointer-events: none;
     }
 
     .mobile-stack div {
         z-index: 2;
+        position: relative;
         background: transparent;
     }
 }

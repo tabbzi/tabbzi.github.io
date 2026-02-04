@@ -17,7 +17,7 @@ layout: homepage
             </p>
 
             <p>
-            As a PhD candidate at the University of Massachusetts Chan Medical School in the Karlsson Laboratory, I explored elements of the genome that shape variation in canine behavior, partnering with people and their dogs through <span style="color: #00b18b;">citizen science initaitives</span> Darwin's Ark project (<a href="https://darwinsark.org/">darwinsark.org</a>) and Dog Aging Project (<a href="https://dogagingproject.org">dogagingproject.org</a>). 
+            As a PhD candidate at the University of Massachusetts Chan Medical School in the Karlsson Laboratory, I explored elements of the genome that shape variation in canine behavior, partnering with humans and their dogs through <span style="color: #00b18b;">citizen science initaitives</span> including the Darwin's Ark project (<a href="https://darwinsark.org/">darwinsark.org</a>) and the Dog Aging Project (<a href="https://dogagingproject.org">dogagingproject.org</a>). 
             </p>
     
             <p>

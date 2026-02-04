@@ -14,9 +14,7 @@ layout: homepage
         <div style="flex: 1;">
             I am currently leading multiple species de‑extinction projects at Colossal Biosciences, a company that sits at the intersection of synthetic biology and biodiversity conservation. We leverage genome engineering technology and multi‑omics datasets spanning extant and extinct species, as well as modern and historic populations, to preserve and restore biodiversity.
         </div>
-        <div style="position: relative; flex-shrink: 0;">
-            <img src="./assets/img/graphic_ColossalBiosciences.gif" style="position: absolute; left: 20px; top: 0;">
-        </div>
+        <img src="./assets/img/graphic_ColossalBiosciences.gif" style="max-width: none !important; flex-shrink: 0; margin-right: -250px; z-index: 1;">
     </div>
 
     <p>

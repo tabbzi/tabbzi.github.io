@@ -9,7 +9,7 @@ layout: homepage
     <div style="display: flex; align-items: flex-start; gap: 20px;">
         <div style="flex: 1;">
             <p>
-                Computational biologist and principal scientist focused on <strong>evolution and development</strong>, <strong>genotype-to-phenotype relationships</strong>, and <strong>functional consequences of DNA sequence variation</strong> across animal species.
+                Computational biologist and principal scientist focused on <span style="color: #00b18b;">evolution and development</span>, <span style="color: #00b18b;">genotype-to-phenotype relationships</span>, and <span style="color: #00b18b;">functional consequences of DNA sequence variation</span> across animal species.
             </p>
 
             <p>
@@ -31,7 +31,7 @@ layout: homepage
         <img src="./assets/img/graphic_UMassMedical.gif" style="max-width: none !important; flex-shrink: 0; margin-right: 25x; z-index: 1;" />
         <div style="flex: 1;">
             <p>
-                I have cultivated a diverse skillset spanning many functional domains and datasets, including gene regulation (bulk and single-cell RNA-seq); chromatin contacts (HiC, LinkPrep), states (histone ChIP-seq), and accessibility (ATAC-seq); germline and somatic genome variant calling from short‑ and long‑read whole‑genome sequencing. I approach leadership with the same thoroughness, attentiveness, and commitment that defines my research.
+                I have cultivated a <span style="color: #00b18b;">diverse skillset spanning many functional domains and datasets</span>, including gene regulation (bulk and single-cell RNA-seq); chromatin contacts (HiC, LinkPrep), states (histone ChIP-seq), and accessibility (ATAC-seq); germline and somatic genome variant calling from short‑ and long‑read whole‑genome sequencing. I approach leadership with the same thoroughness, attentiveness, and commitment that defines my research.
             </p>
 
             <p>
@@ -40,7 +40,7 @@ layout: homepage
 
             <p>Thank you for checking out my profile, and feel free to reach out via email or on any platform linked!</p>
 
-            <p>Kathleen Morrill Pirovich</p>
+            <p><span style="color: #00b18b;">Kathleen Morrill Pirovich</span></p>
         </div>
     </div>
 </div>

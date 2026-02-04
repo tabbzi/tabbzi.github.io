@@ -1,45 +1,47 @@
 main:
 
-  - title: ​Comparative genomics of Balto, a famous historic dog, captures lost diversity of 1920s sled dogs
-    authors: Moon KL, Huson HJ, <strong>Morrill K</strong>, Wang MS, Li X, Srikanth K; Zoonomia Consortium; Lindblad-Toh K, Svenson GJ, Karlsson EK, Shapiro B
+  - title: Colonial-driven extinction of the blue antelope despite genomic adaptation to low population size
+    authors: Hempel E, Faith JT, Preick M, de Jager D, Barish S, Hartmann S, Grau JH, Moodley Y, Gedman G, <span style="color: #00b18b;">Pirovich KM</span>, Bibi F, Kalthoff DC, Bocklandt S, Lamm B, Dalén L, Westbury MV, Hofreiter M
+    pdf: https://doi.org/10.1016/j.cub.2024.03.051
+    image: ./assets/img/bbadna.png
+
+  - title: Evolutionary constraint and innovation across hundreds of placental mammals (2023)
+    authors: Christmas MJ, Kaplow IM, Genereux DP, Dong MX, Hughes GM, Li X, Sullivan PF, Hindle AG, Andrews G, Armstrong JC, Bianchi M, Breit AM, Diekhans M, Fanter C, Foley NM, Goodman DB, Goodman L, Keough KC, Kirilenko B, Kowalczyk A, Lawless C, Lind AL, Meadows JRS, Moreira LR, Redlich RW, Ryan L, Swofford R, Valenzuela A, Wagner F, Wallerman O, Brown AR, Damas J, Fan K, Gatesy J, Grimshaw J, Johnson J, Kozyrev SV, Lawler AJ, Marinescu VD, <span style="color: #00b18b;">Morrill KM</span>, Osmanski A, Paulat NS, Phan BN, Reilly SK, Schäffer DE, Steiner C, Supple MA, Wilder AP, Wirthlin ME, Xue JR; Zoonomia Consortium§; Birren BW, Gazal S, Hubley RM, Koepfli KP, Marques-Bonet T, Meyer WK, Nweeia M, Sabeti PC, Shapiro B, Smit AFA, Springer MS, Teeling EC, Weng Z, Hiller M, Levesque DL, Lewin HA, Murphy WJ, Navarro A, Paten B, Pollard KS, Ray DA, Ruf I, Ryder OA, Pfenning AR, Lindblad-Toh K, Karlsson EK
+    pdf: https://doi.org/10.1126/science.abn3943
+    image: ./assets/img/zoonomia.jpg
+
+  - title: ​Comparative genomics of Balto, a famous historic dog, captures lost diversity of 1920s sled dogs (2023)
+    authors: Moon KL, Huson HJ, <span style="color: #00b18b;">Morrill K</span>, Wang MS, Li X, Srikanth K; Zoonomia Consortium; Lindblad-Toh K, Svenson GJ, Karlsson EK, Shapiro B
     pdf: https://doi.org/10.1126/science.abn5887
     image: ./assets/img/balto.png
 
-  - title: Ancestry-inclusive dog genomics challenges popular breed stereotypes
-    authors: <strong>Morrill K</strong>, Hekman J, Li X, McClure J, Logan B, Goodman L, Gao M, Dong Y, Alonso M, Carmichael E, Snyder-Mackler N, Alonso J, Noh HJ, Johnson J, Koltookian M, Lieu C, Megquier K, Swofford R, Turner-Maier J, White ME, Weng Z, Colubri A, Genereux DP, Lord KA, Karlsson EK
+  - title: Ancestry-inclusive dog genomics challenges popular breed stereotypes (2022)
+    authors: <span style="color: #00b18b;">Morrill K</span>, Hekman J, Li X, McClure J, Logan B, Goodman L, Gao M, Dong Y, Alonso M, Carmichael E, Snyder-Mackler N, Alonso J, Noh HJ, Johnson J, Koltookian M, Lieu C, Megquier K, Swofford R, Turner-Maier J, White ME, Weng Z, Colubri A, Genereux DP, Lord KA, Karlsson EK
     pdf: https://www.science.org/doi/10.1126/science.abk0639
     image: ./assets/img/science.2022.376.issue-6592.largecover.jpg
 
-  - title: "Elements in the λ immunity region regulate phage development: beyond the ‘Genetic Switch’"
+  - title: BarkBase: epigenomic annotation of canine genomes (2019)
+    authors: Megquier K, Genereux DP, Hekman J, Swofford R, Turner-Maier J, Johnson J, Alonso J, Li X, <span style="color: #00b18b;">Morrill K</span>, Anguish LJ, Koltookian M, Logan B, Sharp CR, Ferrer L, Lindblad-Toh K, Meyers-Wallen VN, Hoffman A, Karlsson EK
+    pdf: https://doi.org/10.3390/genes10060433
+    image: ./assets/img/manuscript_BarkBase.png
+
+  - title: "Elements in the λ immunity region regulate phage development: beyond the ‘Genetic Switch’" (2019)
     authors: Thomason LC, <strong>Morrill K</strong>, Murray G, Court C, Shafer B, Schneider TD, Court DL
     pdf: https://onlinelibrary.wiley.com/doi/10.1111/mmi.14394
     image: ./assets/img/pic02.jpg
 
+  - title: Retrotransposon activation contributes to neurodegeneration in a Drosophila TDP-43 model of ALS (2017)
+    authors: Krug L, Chatterjee N, Borges-Monroy R, Hearn S, Liao WW, <span style="color: #00b18b;">Morrill K</span>, Prazak L, Rozhkov N, Theodorou D, Hammell M, Dubnau J
+    pdf: https://doi.org/10.1371/journal.pgen.1006635
+    image: ./assets/img/pgen.1006635.g007.png
+
+  - title: Role of genetic diversity and water quality in the 2013 decline of eelgrass (Zostera marina) populations of the Upper Frenchman Bay, ME coastlines (2015)
+    authors: <span style="color: #00b18b;">Morrill K</span>, Farrel A, Dirks A, Badger M, Disney J, Williams L
+    pdf: https://digitalarchive.mdibl.org/items/show/2716
+    image: ./assets/img/pic01.jpg
 
   # - title: yyy
-  #   authors: <strong>me</strong>, yyy
-  #   conference_short: yyy
-  #   conference: yyy
-  #   pdf: yyy
-  #   code: yyy
-  #   page: yyy
-  #   bibtex: yyy
-  #   notes: yyy
-  #   image: ./assets/img/placeholder.jpg
-
-  # - title: yyy
-  #   authors: <strong>me</strong>, yyy
-  #   conference_short: yyy
-  #   conference: yyy
-  #   pdf: yyy
-  #   code: yyy
-  #   page: yyy
-  #   bibtex: yyy
-  #   notes: yyy
-  #   image: ./assets/img/placeholder.jpg
-
-  # - title: yyy
-  #   authors: <strong>me</strong>, yyy
+  #   authors: <span style="color: #00b18b;">me</span>, yyy
   #   conference_short: yyy
   #   conference: yyy
   #   pdf: yyy

@@ -21,7 +21,7 @@ layout: homepage
             </p>
     
             <p>
-            My past research spanned diverse topics, from <span style="color: #00b18b;">resilience and genetic diversity</span> in marine sea grasses to the effects of <span style="color: #00b18b;">retrotransposon activation</span> on neurodegeneration in the brain to <span style="color: #00b18b;">genetic switches</span> encoded for defending bacteria against DNA damage which can be hijacked by bacteriophage viruses.
+            My past research spanned diverse topics, from <span style="color: #00b18b;">resilience and genetic diversity</span> in marine sea grasses to effects of <span style="color: #00b18b;">retrotransposon activation</span> on neurodegeneration to <span style="color: #00b18b;">genetic switches</span> encoded for defending bacteria against DNA damage hijacked by bacteriophage viruses.
             </p>
         </div>
         <img src="./assets/img/graphic_ColossalBiosciences.gif" style="max-width: none !important; flex-shrink: 0; margin-right: -250px; z-index: 1;" />

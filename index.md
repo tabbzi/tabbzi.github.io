@@ -6,13 +6,16 @@ layout: homepage
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
 
-    <p>
-        Computational biologist and principal scientist focused on evolutionary processes, genotype-to-phenotype relationships, and functional impacts of sequence variation across animal species.
-    </p>
-
     <div style="display: flex; align-items: flex-start; gap: 20px;">
         <div style="flex: 1;">
-            I am currently leading multiple species de‑extinction projects at Colossal Biosciences, a company that sits at the intersection of synthetic biology and biodiversity conservation. We leverage genome engineering technology and multi‑omics datasets spanning extant and extinct species, as well as modern and historic populations, to preserve and restore biodiversity.
+            <p>
+                Computational biologist and principal scientist focused on evolutionary processes, genotype-to-phenotype relationships, and functional impacts of sequence variation across animal species.
+            </p>
+
+            <p>
+                I am currently leading multiple species de‑extinction projects at Colossal Biosciences, a company that sits at the intersection of synthetic biology and biodiversity conservation. We leverage genome engineering technology and multi‑omics datasets spanning extant and extinct species, as well as modern and historic populations, to preserve and restore biodiversity.
+            </p>
+
         </div>
         <img src="./assets/img/graphic_ColossalBiosciences.gif" style="max-width: none !important; flex-shrink: 0; margin-right: -250px; z-index: 1;">
     </div>
@@ -30,7 +33,7 @@ layout: homepage
     </p>
 
     <div style="display: flex; align-items: flex-end; gap: 20px;">
-        <img src="./assets/img/graphic_UMassMedical.gif">
+        <img src="./assets/img/graphic_UMassMedical.gif" style="max-width: none !important; flex-shrink: 0; margin-right: 250px; z-index: 1;>
         <div style="flex: 1;">
             Beyond research, I am also an illustrator eager for ways to combine my passions for science and art.
         </div>

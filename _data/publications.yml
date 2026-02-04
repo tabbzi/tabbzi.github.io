@@ -20,7 +20,7 @@ main:
     pdf: https://www.science.org/doi/10.1126/science.abk0639
     image: ./assets/img/science.2022.376.issue-6592.largecover.jpg
 
-  - title: BarkBase: epigenomic annotation of canine genomes (2019)
+  - title: "BarkBase: epigenomic annotation of canine genomes (2019)"
     authors: Megquier K, Genereux DP, Hekman J, Swofford R, Turner-Maier J, Johnson J, Alonso J, Li X, Morrill K, Anguish LJ, Koltookian M, Logan B, Sharp CR, Ferrer L, Lindblad-Toh K, Meyers-Wallen VN, Hoffman A, Karlsson EK
     pdf: https://doi.org/10.3390/genes10060433
     image: ./assets/img/manuscript_BarkBase.png

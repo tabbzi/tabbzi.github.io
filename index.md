@@ -21,7 +21,7 @@ layout: homepage
             </p>
     
             <p>
-            My past research spanned diverse topics, from resilience and genetic diversity in marine sea grasses to the effects of retrotransposon activation on neurodegeneration in the brain.
+            My past research spanned diverse topics, from resilience and genetic diversity in marine sea grasses to the effects of retrotransposon activation on neurodegeneration in the brain to genetic switches encoded for defending bacteria against DNA damage which can be hijacked by bacteriophage viruses.
             </p>
         </div>
         <img src="./assets/img/graphic_ColossalBiosciences.gif" style="max-width: none !important; flex-shrink: 0; margin-right: -250px; z-index: 1;" />

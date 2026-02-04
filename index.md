@@ -31,7 +31,11 @@ layout: homepage
         <img src="./assets/img/graphic_UMassMedical.gif" class="about-illustration lower-left" />
         <div style="flex: 1;">
             <p>
-                I have cultivated a <span style="color: #00b18b;">diverse skillset spanning many functional domains and datasets</span>, including gene regulation (bulk and single-cell RNA-seq); chromatin contacts (HiC, LinkPrep), states (histone ChIP-seq), and accessibility (ATAC-seq); germline and somatic genome variant calling from short‑ and long‑read whole‑genome sequencing. I approach leadership with the same thoroughness, attentiveness, and commitment that defines my research.
+                I have cultivated a <span style="color: #00b18b;">diverse skillset spanning many functional domains and datasets</span>, including gene regulation (bulk and single-cell RNA-seq); chromatin contacts (HiC, LinkPrep), states (histone ChIP-seq), and accessibility (ATAC-seq); germline and somatic genome variant calling from short‑ and long‑read WGS data.
+            </p>
+
+            <p>
+                I approach research and leadership with matched eagerness, thoroughness, attentiveness, and commitment!
             </p>
 
             <p>

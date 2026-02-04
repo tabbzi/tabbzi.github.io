@@ -12,52 +12,8 @@ main:
     notes: 2022
     image: ./assets/img/science.2022.376.issue-6592.largecover.jpg
 
-  # - title: yyy
-  #   authors: <strong>me</strong>, yyy
-  #   conference_short: yyy
-  #   conference: yyy
-  #   pdf: yyy
-  #   code: yyy
-  #   page: yyy
-  #   bibtex: yyy
-  #   notes: yyy
-  #   image: ./assets/img/placeholder.jpg
-
   - title: Elements in the λ immunity region regulate phage development: beyond the ‘Genetic Switch’
     authors: Thomason LC, <strong>Morrill K</strong>, Murray G, Court C, Shafer B, Schneider TD, Court DL
     code: https://onlinelibrary.wiley.com/doi/10.1111/mmi.14394
     notes: 2019
     image: ./assets/img/pic02.jpg
-
-  # - title: yyy
-  #   authors: <strong>me</strong>, yyy
-  #   conference_short: yyy
-  #   conference: yyy
-  #   pdf: yyy
-  #   code: yyy
-  #   page: yyy
-  #   bibtex: yyy
-  #   notes: yyy
-  #   image: ./assets/img/placeholder.jpg
-
-  # - title: yyy
-  #   authors: <strong>me</strong>, yyy
-  #   conference_short: yyy
-  #   conference: yyy
-  #   pdf: yyy
-  #   code: yyy
-  #   page: yyy
-  #   bibtex: yyy
-  #   notes: yyy
-  #   image: ./assets/img/placeholder.jpg
-
-  # - title: yyy
-  #   authors: <strong>me</strong>, yyy
-  #   conference_short: yyy
-  #   conference: yyy
-  #   pdf: yyy
-  #   code: yyy
-  #   page: yyy
-  #   bibtex: yyy
-  #   notes: yyy
-  #   image: ./assets/img/placeholder.jpg

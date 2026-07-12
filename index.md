@@ -13,7 +13,7 @@ layout: homepage
             </p>
 
             <p>
-                I am currently <span style="color: #00b18b;">leading multiple projects</span> in species de‑extinction at Colossal Biosciences (<a href="https://colossal.com/">colossal.com</a>), a company that sits at the intersection of synthetic biology and biodiversity conservation. We leverage genome engineering technology and multi‑omics datasets spanning extant and extinct species, as well as modern and historic populations, to preserve and restore biodiversity.
+                I am currently <span style="color: #00b18b;">leading multiple projects</span> in species de‑extinction at Colossal Biosciences (<a href="https://colossal.com/">colossal.com</a>), a company that sits at the intersection of synthetic biology and biodiversity conservation. My work integrates genome editing strategies and multi-omics data from extant, extinct, and historic populations to reconstruct and engineer genomic variants underlying extinct species phenotypes.
             </p>
 
             <p>

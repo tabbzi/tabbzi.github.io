@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+/* ---- Base ---- */
+body {
+  background-color: #fff;
+  padding: 0;
+  font: 16px/1.5 Pixelify Sans, serif;
+  color: #595959;
+  font-weight: 400;
+  margin: 0;
+  line-height: 1.6;
+  letter-spacing: 0.5px;
+}
+autocolor { color: #595959; }
+email { font-size: 14px; font-family: "Ubuntu Mono"; }
+strong { color: #222; font-weight: 500; }
+a { color: #00b18b; text-decoration: none; }
+a:hover { color: #287967; }
+h1 { font: 16px/1.5 Silkscreen; font-weight: 500; color: #287967; margin: 0 0 20px; font-size: 28px; }
+h2 { font: 16px/1.5 Silkscreen; color: #287967; font-weight: 500; margin: 2px 0 15px; font-size: 157%; }
+h3, h4, h5, h6 { font-weight: 600; color: #287967; margin: 0 0 20px; }
+.publications h2 {
+  font: 16px/1.5 VT323;
+  color: #287967;
+  margin: 2px 0 15px;
+  font-size: 157%;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 4px;
+}
+.publications h2::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background-color: #007257;
+  transform: scaleX(0);
+  transform-origin: bottom right;
+  transition: transform 0.3s ease-out;
+}
+.publications h2:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+p, ul, ol, table, pre, dl { margin: 0 0 20px; }
+h1, h2, h3 { line-height: 1.1; }
+img { max-width: 100%; }
+small { font-size: 11px; }
+
+/* ---- Layout ---- */
+.wrapper { width: 960px; margin: 0 auto; }
+header {
+  width: 232px;
+  float: left;
+  position: fixed;
+  padding-top: 4em;
+  text-align: center;
+}
+section {
+  width: 650px;
+  float: right;
+  padding-top: 4em;
+  padding-bottom: 50px;
+}
+footer { width: 232px; float: left; position: fixed; bottom: 30px; text-align: center; }
+
+/* ---- Avatar ---- */
+.image.avatar img {
+  border-radius: 50%;
+  width: 45%;
+  padding: 20px;
+}
+
+/* ---- Social icons ---- */
+.social-icons a {
+  display: inline-block;
+  height: 2.4rem;
+  width: 2.4rem;
+  background-color: transparent;
+  color: #043361 !important;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 1.15rem;
+  line-height: 2.5rem;
+  margin-right: 1rem;
+}
+.social-icons a:last-child { margin-right: 0; }
+.social-icons a:hover { background-color: #fff; color: #000; transform: scale(1.2); }
+
+/* ---- About-illustration overrides ---- */
+.about-illustration {
+  max-width: none !important;
+  flex-shrink: 0;
+  z-index: 1;
+  transition: opacity 0.3s ease;
+}
+.upper-right { margin-right: -250px; }
+.lower-left { margin-left: -25px; }
+
+/* ---- Publications ---- */
+.publications { margin-top: 2rem; }
+.publications ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
+.publications ol.bibliography li { margin-bottom: 2.5rem; min-height: auto; }
+.pub-item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+@media (max-width: 768px) {
+  .pub-item { flex-direction: column; }
+}
+.pub-thumbnail { flex-shrink: 0; width: 100%; max-width: 250px; }
+.teaser {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border: 4px solid transparent;
+  border-image: repeating-linear-gradient(0deg, #007257, #007257 2px, transparent 2px, transparent 4px, #287967 4px, #287967 6px, transparent 6px, transparent 8px) 4;
+  border-radius: 0;
+  margin: 0;
+  transition: transform 0.2s ease, filter 0.2s ease;
+  filter: saturate(0.85) contrast(1.05);
+  box-shadow: none;
+}
+.teaser:hover {
+  transform: translate(-2px, -2px);
+  filter: saturate(1) contrast(1.1);
+}
+
+.teaser.teaser-no-border {
+  border: none;
+  border-image: none;
+  filter: saturate(0.9) contrast(1.05);
+  box-shadow: none;
+}
+.teaser.teaser-no-border:hover {
+  filter: saturate(1) contrast(1.1);
+}
+.pub-details { flex-grow: 1; min-width: 0; }
+.pub-details .title { font-weight: 700; }
+.pub-details .author { margin: 2px 0; }
+.pub-details .periodical { font-style: italic; margin: 2px 0; }
+.pub-details .links a.btn {
+  color: #007257;
+  border: 1px solid #007257;
+  padding: 0.1rem 0.5rem;
+  font-family: "VT323", monospace;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  border-radius: 0;
+  background: transparent;
+  transition: all 0.15s ease-in-out;
+  margin-right: 0.5rem;
+}
+.pub-details .links a.btn:hover {
+  background-color: #007257;
+  color: #fff !important;
+  transform: translateY(-1px);
+}
+
+/* ---- Dark mode ---- */
+@media (prefers-color-scheme: dark) {
+  body { background-color: #20212b; color: #dadbdf; }
+  autocolor { color: #dadbdf; }
+  strong { color: #eeeff0; }
+  a { color: rgb(62, 240, 166); }
+  h1, h2, h3, h4, h5, h6 { color: #287967; }
+  .social-icons a { color: #2fe4bd !important; }
+  .social-icons a:hover { background-color: #313548; color: #000; transform: scale(1.2); }
+  .pub-thumbnail .teaser { border-color: #2496cb; box-shadow: none; }
+  .pub-details .links a.btn { color: #2496cb; border-color: #2496cb; }
+  .pub-details .links a.btn:hover { background-color: #2496cb; }
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 960px) {
+  body { padding: 15px; }
+  .wrapper { width: auto; margin: 0; }
+  header, section, footer { float: none; position: static; width: auto; }
+  header { padding-right: 320px; }
+  section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 0 0 20px; }
+  .image.avatar img { width: 117px; padding: 20px; }
+}
+@media (max-width: 800px) {
+  .about-illustration {
+    position: absolute;
+    opacity: 0.25;
+    z-index: -1;
+    pointer-events: none;
+    margin: 0 !important;
+    width: 300px;
+  }
+  .upper-right { top: 10%; right: 0; }
+  .lower-left { visibility: hidden; bottom: 10%; left: 0; }
+  section { overflow-x: hidden; }
+}
+@media (max-width: 480px) {
+  body { padding: 15px; }
+  .image.avatar img { width: 95px; padding: 20px; }
+}
+@media print {
+  body { padding: 0.4in; font-size: 12pt; color: #444; }
+}
